@@ -10,7 +10,7 @@ A full-stack application built with **React + Vite** for the frontend, **Spring 
 > Convert your ordinary images into dreamy anime worlds ✨
 
 <!-- Add actual screenshots or generated examples here -->
-![Anime Example](https://github.com/your-username/assets/sample-anime-art.jpg)
+![image](https://github.com/user-attachments/assets/37cdd0b9-1baf-4193-b957-3614df6e34aa)
 
 ---
 
@@ -184,12 +184,45 @@ graph TD
 
 ## 📸 Screenshots
 
-1️⃣ Upload Screen
-2️⃣ Style Selection
-3️⃣ Anime Output
-4️⃣ Auth Pages (Login/Signup)
+1️⃣ Home Screen
 
-> 📌 Add screenshots or preview GIFs here
+![image](https://github.com/user-attachments/assets/37cdd0b9-1baf-4193-b957-3614df6e34aa)
+
+2️⃣ Login Screen
+
+![image](https://github.com/user-attachments/assets/0f59888d-5654-419a-ad2d-ec4345dade00)
+
+
+
+3️⃣ Step Screen
+
+![image](https://github.com/user-attachments/assets/4b944a8a-0fc3-458d-b4e5-da175da21e5a)
+
+5️⃣  Pricing Screen
+
+![image](https://github.com/user-attachments/assets/73859141-6931-4510-8506-b64946922be2)
+
+ 6️⃣  Silder Screen 
+
+![image](https://github.com/user-attachments/assets/2e3f2dc7-4a17-44b4-8b96-fe800c9e3426)
+
+7️⃣ User Screen
+
+![image](https://github.com/user-attachments/assets/7f67c8a4-b4e6-432e-87bc-e5d6d583ae18)
+
+8️⃣ TryNow Screen
+
+![image](https://github.com/user-attachments/assets/e1ffc4ae-c12d-437d-9c61-e229fadb8797)
+
+9️⃣ Photo+Prompt Screen 
+![image](https://github.com/user-attachments/assets/b9b228ea-135c-476c-9b9f-2e99b33249ce)
+
+
+
+🔟 Text+Style Screen
+
+![image](https://github.com/user-attachments/assets/5711fe60-834b-4c95-b83d-07c0cd266869)
+
 
 ---
 
