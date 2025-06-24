@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');@import "tailwindcss";
+@import "tailwindcss";
+
+
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+.slider {
+    -webkit-appearance: none;
+    height: 100%;
+    background: transparent;
+    
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  appearance: none;
+  height: 22px;
+  width: 22px;
+  background-color: #6366f1;
+  border: 3px solid white;
+  border-radius: 9999px;
+  box-shadow: 0 0 0 4px #c7d2fe;
+  cursor: grab;
+  transition: all 0.3s ease;
+}
+input[type="range"]::-webkit-slider-thumb:hover {
+  background-color: #4f46e5;
+}
